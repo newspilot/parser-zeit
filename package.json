@@ -1,0 +1,8 @@
+{
+  "name": "parser-zeit",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/NewsPilot/parser-zeit",
+  "author": "jld3103",
+  "license": "GPL-3.0"
+}
